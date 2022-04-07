@@ -1,1 +1,2 @@
-Hola
+Laboratorio 1 de calidad de Software
+hola
